@@ -66,6 +66,7 @@ margin-top: 50px;
 }
 .section3{
     text-align: center;
+    
 }
 .hr-widht{
     width: 100px;
@@ -78,8 +79,45 @@ margin-top: 50px;
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 3px;
-    font-size: 16px
+    font-size: 20px;
+    font-weight: bold;
+    color: darkgray;
+    
 }
 .div-form{
     margin-top: 80px;
+}
+.div-200tk{
+  
+    border: solid 2px tomato;
+    color: tomato;
+}
+.section5{
+    display: flex;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+.food-edu-shelter{
+    display: inline;
+    border: solid 0px black;
+    
+    padding: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+   
+    
+    color: black;
+    text-align: left;
+}
+.fash-color{
+    background-color: #c8f4f4;
+}
+.pink-color{
+    background-color: rgb(255, 223, 229);
+}
+.yellow-color{
+    background-color: rgb(249, 249, 184);
 }
