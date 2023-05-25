@@ -1,0 +1,85 @@
+.body{
+
+ 
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.section1{
+    background-image: url(donation8.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.help-h1{
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    
+}
+.help-pera{
+    color: white;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 15px;
+    
+}
+.lets-help{
+   
+    padding-top: 110px;
+    
+}
+.donate-button{
+    text-decoration: none;
+    text-align: center;
+    border: solid 0px white;
+    border-radius: 5px;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: tomato;
+    color: white;
+
+}
+.donate-div{
+
+
+text-align: center;
+margin-top: 50px;
+
+}
+.section2{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.donate-h1{
+    font-size: 40px;
+}
+.donate-tdy-pera{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.section3{
+    text-align: center;
+}
+.hr-widht{
+    width: 100px;
+}
+.div-tk{
+    display: inline;
+    border: solid 0px black;
+    background-color: #eeececf7;
+    padding: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+    font-size: 16px
+}
+.div-form{
+    margin-top: 80px;
+}
