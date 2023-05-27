@@ -187,7 +187,9 @@ margin-top: 50px;
 }
 .input-button{
     border: solid 70px rgb(252, 252, 194);
-    display: inline;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
     
 }
 .email-input{
@@ -198,7 +200,8 @@ margin-top: 50px;
     border-bottom-left-radius:3px;
     margin-right: 0px;
     background-color: rgb(210, 210, 210);
-    display: inline;
+    display: inline-block;
+    
     
 }
 .submit-button{
@@ -208,15 +211,16 @@ margin-top: 50px;
     padding-right: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
-    height: 55px;
-    width: 250px;
+    height: 35px;
+    width: 180px;
     color: white;
     font-weight: bold;
     font-size: 25px;
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
     margin-left: 0px;
-    display: inline;
+    display: inline-block;
+    
 }
 
 ::placeholder{
